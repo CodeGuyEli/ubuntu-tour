@@ -123,7 +123,7 @@ app_list = [
         "icon":"icons/Suru/Suru/256x256/apps/clock-app.png"
     },
     {
-        "code_name":"gnome-clocks",
+        "code_name":"powerpoint",
         "name":"PowerPoint",
         "location":"apps/powerpoint/powerpoint.html",
         "icon_48":"apps/powerpoint/powerpoint.png",
@@ -133,7 +133,7 @@ app_list = [
         "icon":"apps/powerpoint/powerpoint.png"
     },
     {
-        "code_name":"gnome-clocks",
+        "code_name":"excel",
         "name":"Excel",
         "location":"apps/excel/excel.html",
         "icon_48":"apps/excel/excel.png",
@@ -143,7 +143,7 @@ app_list = [
         "icon":"apps/excel/excel.png"
     },
     {
-        "code_name":"gnome-clocks",
+        "code_name":"calculator",
         "name":"Calculator",
         "location":"http://calculator-1.com/outdoor/?f=0274C8&r=666666",
         "icon_48":"https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png",
