@@ -141,20 +141,9 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"apps/excel/excel.png"
-    },
-    {
-        "code_name":"calculator",
-        "name":"Calculator",
-        "location":"http://calculator-1.com/outdoor/?f=0274C8&r=666666",
-        "icon_48":"https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png",
-        "dark_icon":"apps/excel/excel.png",
-        "dark_icon_brightness":2,
-        "special":true,
-        "icon":"https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png"
     }
+
 ]
-
-
 // init app_menu
 init_app_list = () => {
     __app_list="";
