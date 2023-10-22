@@ -105,12 +105,12 @@ app_list = [
     },
     {
         "code_name":"wine notepad.exe",
-        "name":"Notepad - WineHQ",
+        "name":"SMM:WE",
         "location":"apps/wine/notepad.html",
-        "icon":"icons/Suru/Suru/256x256/apps/wine.png",
-        "dark_icon":"icons/Suru/Suru/scalable/apps/wine-symbolic.svg",
+        "icon":"icons/Suru/Suru/scalable/apps/smmwe.png",
+        "dark_icon":"icons/Suru/Suru/scalable/apps/smmwe.png",
         "dark_icon_brightness":2,
-        "icon_48":"icons/Suru/Suru/48x48/apps/wine.png"
+        "icon_48":"icons/Suru/Suru/scalable/apps/smmwe.png"
     },
     {
         "code_name":"gnome-clocks",
@@ -121,8 +121,39 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"icons/Suru/Suru/256x256/apps/clock-app.png"
+    },
+    {
+        "code_name":"gnome-clocks",
+        "name":"PowerPoint",
+        "location":"apps/powerpoint/powerpoint.html",
+        "icon_48":"apps/powerpoint/powerpoint.png",
+        "dark_icon":"apps/powerpoint/powerpoint.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"apps/powerpoint/powerpoint.png"
+    },
+    {
+        "code_name":"gnome-clocks",
+        "name":"Excel",
+        "location":"apps/excel/excel.html",
+        "icon_48":"apps/excel/excel.png",
+        "dark_icon":"apps/excel/excel.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"apps/excel/excel.png"
+    },
+    {
+        "code_name":"gnome-clocks",
+        "name":"Calculator",
+        "location":"http://calculator-1.com/outdoor/?f=0274C8&r=666666",
+        "icon_48":"https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png",
+        "dark_icon":"apps/excel/excel.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png"
     }
 ]
+
 
 // init app_menu
 init_app_list = () => {
