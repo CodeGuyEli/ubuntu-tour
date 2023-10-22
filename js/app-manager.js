@@ -123,7 +123,7 @@ app_list = [
         "icon":"icons/Suru/Suru/256x256/apps/clock-app.png"
     },
     {
-        "code_name":"powerpoint",
+        "code_name":"gnome-clocks",
         "name":"PowerPoint",
         "location":"apps/powerpoint/powerpoint.html",
         "icon_48":"apps/powerpoint/powerpoint.png",
@@ -133,7 +133,7 @@ app_list = [
         "icon":"apps/powerpoint/powerpoint.png"
     },
     {
-        "code_name":"excel",
+        "code_name":"gnome-clocks",
         "name":"Excel",
         "location":"apps/excel/excel.html",
         "icon_48":"apps/excel/excel.png",
