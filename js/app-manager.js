@@ -151,8 +151,17 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico"
+    },
+    {
+        "code_name":"gnome-clocks",
+        "name":"MPlayer",
+        "location":"https://codeguyeli.github.io/MPlayer/",
+        "icon_48":"https://codeguyeli.github.io/MPlayer/favicon.ico",
+        "dark_icon":"apps/excel/excel.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"https://codeguyeli.github.io/MPlayer/favicon.ico"
     }
-
 
 ]
 // init app_menu
