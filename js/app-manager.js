@@ -153,7 +153,7 @@ app_list = [
         "icon":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico"
     },
     {
-        "code_name":"gnome-clocks",
+        "code_name":"wine notepad.exe",
         "name":"MPlayer",
         "location":"https://codeguyeli.github.io/MPlayer/",
         "icon_48":"https://codeguyeli.github.io/MPlayer/favicon.ico",
