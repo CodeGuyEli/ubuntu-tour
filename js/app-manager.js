@@ -141,7 +141,18 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"apps/excel/excel.png"
+    },
+     {
+        "code_name":"gnome-clocks",
+        "name":"Racing",
+        "location":"apps/racing/index.html",
+        "icon_48":"https://usefulicons.com/uploads/icons/202004/2780/e62a9b56e928.png",
+        "dark_icon":"apps/excel/excel.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"https://usefulicons.com/uploads/icons/202004/2780/e62a9b56e928.png"
     }
+
 
 ]
 // init app_menu
