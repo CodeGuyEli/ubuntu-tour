@@ -123,7 +123,7 @@ app_list = [
         "icon":"icons/Suru/Suru/256x256/apps/clock-app.png"
     },
     {
-        "code_name":"gnome-clocks",
+        "code_name":"powerpoint",
         "name":"PowerPoint",
         "location":"apps/powerpoint/powerpoint.html",
         "icon_48":"apps/powerpoint/powerpoint.png",
@@ -133,7 +133,7 @@ app_list = [
         "icon":"apps/powerpoint/powerpoint.png"
     },
     {
-        "code_name":"gnome-clocks",
+        "code_name":"excel",
         "name":"Excel",
         "location":"apps/excel/excel.html",
         "icon_48":"apps/excel/excel.png",
@@ -143,7 +143,7 @@ app_list = [
         "icon":"apps/excel/excel.png"
     },
      {
-        "code_name":"gnome-clocks",
+        "code_name":"quadplay",
         "name":"quadplay Player",
         "location":"https://codeguyeli.github.io/quadplay/console/quadplay",
         "icon_48":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico",
@@ -153,7 +153,7 @@ app_list = [
         "icon":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico"
     },
     {
-        "code_name":"wine notepad.exe",
+        "code_name":"mplayer",
         "name":"MPlayer",
         "location":"https://codeguyeli.github.io/MPlayer/",
         "icon_48":"https://codeguyeli.github.io/MPlayer/favicon.ico",
