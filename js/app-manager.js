@@ -141,6 +141,16 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"apps/excel/excel.png"
+    },
+     {
+        "code_name":"gnome-clocks",
+        "name":"quadplay Player",
+        "location":"https://codeguyeli.github.io/quadplay/console/quadplay",
+        "icon_48":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico",
+        "dark_icon":"apps/excel/excel.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico"
     }
 
 
