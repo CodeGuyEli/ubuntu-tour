@@ -147,7 +147,7 @@ app_list = [
         "name":"quadplay Player",
         "location":"https://codeguyeli.github.io/quadplay/console/quadplay",
         "icon_48":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico",
-        "dark_icon":"apps/excel/excel.png",
+        "dark_icon":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico",
         "dark_icon_brightness":2,
         "special":true,
         "icon":"https://codeguyeli.github.io/quadplay/console/icons/favicon.ico"
@@ -157,7 +157,7 @@ app_list = [
         "name":"MPlayer",
         "location":"https://codeguyeli.github.io/MPlayer/",
         "icon_48":"https://codeguyeli.github.io/MPlayer/favicon.ico",
-        "dark_icon":"apps/excel/excel.png",
+        "dark_icon":"https://codeguyeli.github.io/MPlayer/favicon.ico",
         "dark_icon_brightness":2,
         "special":true,
         "icon":"https://codeguyeli.github.io/MPlayer/favicon.ico"
@@ -167,7 +167,7 @@ app_list = [
         "name":"Woxels",
         "location":"https://codeguyeli.github.io/woxels.github.io/",
         "icon_48":"apps/Woxels/favicon.png",
-        "dark_icon":"apps/excel/excel.png",
+        "dark_icon":"apps/Woxels/favicon.png",
         "dark_icon_brightness":2,
         "special":true,
         "icon":"apps/Woxels/favicon.png"
