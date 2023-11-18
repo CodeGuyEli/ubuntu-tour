@@ -170,7 +170,7 @@ app_list = [
         "dark_icon":"apps/excel/excel.png",
         "dark_icon_brightness":2,
         "special":true,
-        "icon":"https://codeguyeli.github.io/MPlayer/favicon.ico"
+        "icon":"apps/Woxels/favicon.png"
     }
 
 ]
