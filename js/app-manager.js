@@ -162,7 +162,7 @@ app_list = [
         "special":true,
         "icon":"https://codeguyeli.github.io/MPlayer/favicon.ico"
     },
-     {
+    {
         "code_name":"woxels",
         "name":"Woxels",
         "location":"apps/Woxels/index.html",
