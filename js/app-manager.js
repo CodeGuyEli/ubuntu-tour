@@ -165,7 +165,7 @@ app_list = [
     {
         "code_name":"woxels",
         "name":"Woxels",
-        "location":"apps/Woxels/index.html",
+        "location":"https://codeguyeli.github.io/woxels.github.io/",
         "icon_48":"apps/Woxels/favicon.ico",
         "dark_icon":"apps/excel/excel.png",
         "dark_icon_brightness":2,
