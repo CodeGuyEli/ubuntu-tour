@@ -161,6 +161,16 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"https://codeguyeli.github.io/MPlayer/favicon.ico"
+    },
+    {
+        "code_name":"woxels",
+        "name":"Woxels",
+        "location":"https://codeguyeli.github.io/woxels.github.io/",
+        "icon_48":"apps/Woxels/favicon.png",
+        "dark_icon":"apps/excel/excel.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"apps/Woxels/favicon.png"
     }
 
 ]
