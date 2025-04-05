@@ -171,6 +171,16 @@ app_list = [
         "dark_icon_brightness":2,
         "special":true,
         "icon":"apps/Woxels/favicon.png"
+    },
+    {
+        "code_name":"eaglercraft",
+        "name":"Eaglercraft",
+        "location":"apps/eaglercraft/EaglercraftX_1.8_u50_Offline_Signed.html",
+        "icon_48":"apps/eaglercraft/images.jpeg",
+        "dark_icon":"apps/eaglercraft/images.jpeg",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"apps/eaglercraft/images.jpeg"
     }
 
 ]
